@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.10">
+  <GVL Name="JSDATA" Id="{7c84e2fe-b5b9-4e91-93e1-74810c556cb8}">
+    <Declaration><![CDATA[{attribute 'qualified_only'}
+VAR_GLOBAL
+GamepadState : XinputState;
+END_VAR]]></Declaration>
+  </GVL>
+</TcPlcObject>

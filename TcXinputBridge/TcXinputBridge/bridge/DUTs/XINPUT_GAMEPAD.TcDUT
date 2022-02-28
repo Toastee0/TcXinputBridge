@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.10">
+  <DUT Name="XINPUT_GAMEPAD" Id="{d5ddfd97-d709-462c-8a37-f8650f1e26fe}">
+    <Declaration><![CDATA[TYPE XINPUT_GAMEPAD :
+STRUCT
+ wButtons: WORD;
+ bLeftTrigger: BYTE;
+ bRightTrigger: BYTE;
+ sThumbLX: INT;
+ sThumbLY: INT;
+ sThumbRX: INT;
+ sThumbRY: INT;
+END_STRUCT
+END_TYPE
+]]></Declaration>
+  </DUT>
+</TcPlcObject>

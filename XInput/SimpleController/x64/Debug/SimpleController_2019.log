@@ -1,0 +1,5 @@
+﻿SimpleController.obj : error LNK2019: unresolved external symbol AdsPortOpen referenced in function wWinMain
+SimpleController.obj : error LNK2019: unresolved external symbol AdsGetLocalAddress referenced in function wWinMain
+SimpleController.obj : error LNK2019: unresolved external symbol AdsSyncReadWriteReq referenced in function wWinMain
+C:\TwinCAT\AdsApi\TcAdsDll\Lib\TcAdsDll.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\directx-sdk-samples-63b86f65fc63d45c76e86e6141ca0ee004ef212e\XInput\x64\Debug\SimpleController.exe : fatal error LNK1120: 3 unresolved externals

@@ -1,0 +1,3 @@
+﻿  SimpleController.cpp
+C:\directx-sdk-samples-63b86f65fc63d45c76e86e6141ca0ee004ef212e\XInput\SimpleController\SimpleController.cpp(187,11): warning C4101: 'dwResult': unreferenced local variable
+  SimpleController_2019.vcxproj -> C:\directx-sdk-samples-63b86f65fc63d45c76e86e6141ca0ee004ef212e\XInput\Debug\SimpleController.exe

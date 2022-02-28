@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.10">
+  <DUT Name="XinputState" Id="{48f36773-7c4c-407c-842c-9656caadc7a9}">
+    <Declaration><![CDATA[TYPE XinputState:
+STRUCT
+	dwPacketNumber :DWORD;
+	Gamepad : XINPUT_GAMEPAD;
+END_STRUCT
+END_TYPE
+]]></Declaration>
+  </DUT>
+</TcPlcObject>
